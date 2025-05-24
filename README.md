@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Lavanya 👋</h1>
 
-<!--
-**LavanyaGovindaraju/LavanyaGovindaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 Master's in Data Science & AI – Saarland University  
+🔬 Research Assistant @ DFKI | Building LLM + Multimodal systems  
+🧠 Interests: OCR, Captioning, RAG Chatbots, Clustering, Document AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Featured Repositories
+
+### 🤖 [Nutri_ChatBot](https://github.com/LavanyaGovindaraju/Nutri_ChatBot)  
+💬 A Retrieval-Augmented Generation (RAG) chatbot built using LangChain and OpenAI  
+📄 Allows nutrition-based querying from uploaded documents using PDF parsing and vector search  
+🧠 Technologies: Streamlit, LangChain, FAISS, OpenAI API, PyMuPDF
+
+---
+
+### 🗂️ [PDF-Document-Preprocessing-and-Clustering](https://github.com/LavanyaGovindaraju/PDF-Document-Preprocessing-and-Clustering)  
+📑 Extracts and clusters text content from PDFs using sentence embeddings  
+🔍 Clusters documents by similarity to enable faster retrieval and organization  
+🛠 Tools: PyMuPDF, Sentence Transformers, KMeans, PCA/UMAP visualization
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/lgovindaraju)
+- 📧 lavanyagovind20@gmail.com
+
+---
+
+_Thanks for visiting! Feel free to explore my repos or connect for collaborations._
