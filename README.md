@@ -4,7 +4,7 @@
 
 🎓 Master's in Data Science & AI – Saarland University  
 🔬 Research Assistant @ DFKI | Building LLM + Multimodal systems  
-🧠 Interests: OCR, Captioning, RAG Chatbots, Clustering, Document AI
+🧠 Interests: Generative AI, LLMs, RAG, Multimodality, CV, NLP
 
 ---
 
